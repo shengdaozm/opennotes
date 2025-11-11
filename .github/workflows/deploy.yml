@@ -27,8 +27,8 @@ jobs:
           npm install -g hexo-cli # 全局安装 Hexo CLI
           # npm install # 安装 package.json 中定义的依赖
 
-      - name: Install Hexo Fluid Theme # 安装 Fluid 主题
-        run: npm install --save hexo-theme-fluid
+      - name: Install Hexo keep Theme 
+        run: npm install hexo-theme-keep
 
       - name: Generate Hexo public files # 生成 Hexo 静态文件
         run: hexo generate

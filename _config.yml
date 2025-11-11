@@ -7,13 +7,13 @@ title: opennotes
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Sheng Dao
+language: zh-cn
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://siaynd.github.io/opennotes
+url: https://shengdaozm.github.io/opennotes
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid 
+theme: keep
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
